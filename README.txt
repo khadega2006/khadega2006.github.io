@@ -1,12 +1,29 @@
-Khadija Mohammed - Portfolio
-============================
-افتحي index.html في المتصفح مباشرة.
+# Khadija Mohammed – Portfolio
 
-للتعديل:
-- النصوص: داخل index.html، كل نص له data-en (إنجليزي) و data-ar (عربي).
-- الألوان: أول الملف css/style.css (المتغيرات في :root).
-- الصور: فولدر images (استبدلي الصورة بنفس الاسم أو غيّري المسار في index.html).
-- الإيميل وروابط LinkedIn وGitHub: في قسم Contact بآخر index.html.
-- الصور: khadija.jpg (صورتك)، nti-1.jpg و nti-2.jpg (صور التدريب).
+Welcome to my personal portfolio! 
 
-للنشر: ارفعي الفولدر كله على Netlify أو GitHub Pages أو أي استضافة.
+I'm a Junior MEAN Stack Developer passionate about building responsive, user-friendly web applications and creating practical solutions.
+
+## Live Demo
+
+[View My Portfolio](https://khadija-portfolio.khadegamohammed31.workers.dev)
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Portfolio Sections
+
+- About Me
+- Education & Training
+- Skills
+- Projects
+- Contact Information
+
+## Contact
+
+Feel free to connect with me through my portfolio.
+
+**Khadija Mohammed**
